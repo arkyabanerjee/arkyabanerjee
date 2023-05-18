@@ -9,20 +9,7 @@ I am passionate about leveraging data to drive business growth and create value 
 
 Thank you for visiting my GitHub profile, and please feel free to reach out to me if you have any questions or would like to learn more about my work.
 
-
-Project 1: [Name of project](link to project) - Description of project
-Project 2: [Name of project](link to project) - Description of project
-Project 3: [Name of project](link to project) - Description of project
-Skills
-List your technical skills, including programming languages, databases, tools, and frameworks you have worked with. Mention any certifications or courses you have completed that are relevant to data science or analytics.
-
-Contact
-Include your contact information so that potential employers or collaborators can reach out to you.
-
-Email: your.email@email.com
-LinkedIn: [Link to your LinkedIn profile](link to LinkedIn)
-Twitter: [@yourhandle](link to Twitter)
-Conclusion
-Conclude with a statement that summarizes your goals and interests, and expresses your enthusiasm for data science and analytics.
+Email: banerjeearkya92@gmail.com
+LinkedIn: linkedin.com/in/arkya-banerjee-59b3811b5
 
 If you have any questions or want to learn more about my work, feel free to contact me. Thank you for visiting my GitHub profile!
